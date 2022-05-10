@@ -44,7 +44,7 @@ This project was developed during the ReactJS trail of [Ignite](https://rocketse
 The project consists of a dashboard.
 <br>
 
-![site](https://user-images.githubusercontent.com/53796370/116011197-22d93780-a5fa-11eb-8c73-597da2cd743c.gif)
+![site](https://user-images.githubusercontent.com/53796370/167653453-ea373f70-bef0-4ece-8816-d87ee144e839.gif)
 <br>
 
 ### 🛠 Technologies
